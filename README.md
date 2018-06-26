@@ -10,6 +10,7 @@ These notebooks are anticipated to be run in a specific order to rebuild the Glo
 - The list of active companies from Companies House; available here http://download.companieshouse.gov.uk/en_output.html
 - The Beneficial Ownership data, also known as Persons of Signficant Control (PSC data) from Companies House; available here http://download.companieshouse.gov.uk/en_pscdata.html
 - Officers data used in this project was supplied by Open Corporates (see notebooks 09 & 10); this data requires an API key from Open Corporates and so the notebooks are only for illustration. The data could also be collected using an API key from Companies House but would be in a different format.
+- The Financial Secrecy Index is available from https://www.financialsecrecyindex.com/introduction/fsi-2018-results . **N.B.** We used our own version and so some modifications to the relevant section of code need to be made.
 
 The notebooks should be read (and run) in the following order:
 
